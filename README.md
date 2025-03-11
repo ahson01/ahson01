@@ -16,7 +16,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 - ``🔭`` **Building**: Wifi Hacking Tool 🤖  
 - ``🌱`` **Learning**: Everything 📚  
 - ``👯`` **Collaborating**: AI tools & Web Projects 🧠  
-- ``🎨`` **Seeking Help**: Discovering a new web development stack called "TRAP" 
+- ``🎨`` **Seeking Help**: Thinking about making a cool web-dev flow
 
 ---
 
