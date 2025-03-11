@@ -6,7 +6,7 @@
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
 
 - ``🎥`` **Three YouTube channels** (I actually upload on just one lol).
-- ``💬`` Active on **[Discord](https://discord.gg/stcApdCN3T)**—drop by and say hi!
+- ``💬`` Active on **[Discord](https://discord.gg/GDZmRbe2ND)**—drop by and say hi!
 - ``📝`` **[Check out my blog](https://techsleekblogs.vercel.app/)** for projects, tech insights, and thoughts.
 
 ---
