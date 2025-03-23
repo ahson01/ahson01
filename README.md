@@ -79,4 +79,3 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 ---
 
-###### PSSS : Check out my [guns.lol page](https://guns.lol/theprolifical)
