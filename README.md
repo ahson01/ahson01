@@ -2,10 +2,11 @@
 
 <h1> Hey there! I'm <a href="https://github.com/ahson01">Ahson</a> 👋  
 
-  
+  <h3 align="right" style="width:full;">
   <a href="https://github.com/gitlimes/discord-md-badge/">
     <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223">
   </a>
+  </h3>
 </h3>
 </h1>
 ### ``🚀`` About Me
