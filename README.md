@@ -1,13 +1,6 @@
-<h3 align=right>
 
 <h1> Hey there! I'm <a href="https://github.com/ahson01">Ahson</a> 👋  
 
-  <h3 align="right" style="width:full;">
-  <a href="https://github.com/gitlimes/discord-md-badge/">
-    <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223">
-  </a>
-  </h3>
-</h3>
 </h1>
 ### ``🚀`` About Me
 
@@ -85,5 +78,10 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
   <img src="https://komarev.com/ghpvc/?username=ahson01&style=for-the-badge" alt="Profile Views">
 </p>
 
+  <h3 align="right" style="width:full;">
+  <a href="https://github.com/gitlimes/discord-md-badge/">
+    <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223">
+  </a>
+  </h3>
 ---
 
