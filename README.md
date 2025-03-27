@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/license/ahson01/ahson01">
   </a>
   <a href="https://github.com/gitlimes/discord-md-badge/">
-    <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=fflat-square">
+    <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223?style=fflat-square">
   </a>
 </h3>
 ### ``🚀`` About Me
