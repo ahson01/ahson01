@@ -5,16 +5,16 @@
     <img src="https://views.whatilearened.today/views/github/ahson01/ahson01.svg">
   </a>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/github/stars/ahson01?style=fflat-square&color=yellow&logo=github">
+    <img src="https://img.shields.io/github/stars/ahson01color=yellow&logo=github">
   </a>
   <a href="https://github.com/ahson01?tab=followers">
-    <img src="https://img.shields.io/github/followers/ahson01?style=fflat-square&logo=github">
+    <img src="https://img.shields.io/github/followers/ahson01?logo=github">
   </a>
   <a href="https://raw.githubusercontent.com/ahson01/ahson01/refs/heads/main/LICENSE">
     <img src="https://img.shields.io/github/license/ahson01/ahson01">
   </a>
   <a href="https://github.com/gitlimes/discord-md-badge/">
-    <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223?style=fflat-square">
+    <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223">
   </a>
 </h3>
 ### ``🚀`` About Me
