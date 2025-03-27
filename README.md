@@ -79,7 +79,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 </p>
 
   <h3 align="right" style="width:full;">
-  <a href="">
+  <a href="https://discord.com/users/1225181022828892223">
     <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223">
   </a>
   </h3>
