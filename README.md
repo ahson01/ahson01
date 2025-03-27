@@ -1,6 +1,22 @@
 <h1> Hey there! I'm <a href="https://github.com/ahson01">Ahson</a> 👋  
 </h1>
-
+<h3 align=center>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter/">
+    <img src="https://views.whatilearened.today/views/github/ahson01/ahson01.svg">
+  </a>
+  <a href="https://shields.io/">
+    <img src="https://img.shields.io/github/stars/ahson01?style=fflat-square&color=yellow&logo=github">
+  </a>
+  <a href="https://github.com/ahson01?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahson01?style=fflat-square&logo=github">
+  </a>
+  <a href="https://raw.githubusercontent.com/ahson01/ahson01/refs/heads/main/LICENSE">
+    <img src="https://img.shields.io/github/license/ahson01/ahson01">
+  </a>
+  <a href="https://github.com/gitlimes/discord-md-badge/">
+    <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=fflat-square">
+  </a>
+</h3>
 ### ``🚀`` About Me
 
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
