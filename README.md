@@ -11,9 +11,11 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 ### ``🔍`` What I'm Up To
 
-- ``🔭`` **Building**: Wifi Hacking Tool 🤖  
-- ``🌱`` **Learning**: Everything 📚  
-- ``👯`` **Collaborating**: AI tools & Web Projects 🧠  
+- ``🔭`` **Building**: Network Security Tools 
+- ``🌱`` **Learning**: Python, AI, Web Development, Digital Art & Animation Techniques 
+- ``👯`` **Collaborating**: Tech Projects, AI Applications
+- ``⚡`` **Interests**: Cybersecurity, Digital Art, Animation, Minecraft, & Poetry
+- ``💬`` **Ask me about**: Network Security, Python Automation, AI Applications, Digital Art Tools, Animation Software, Minecraft Development, & Poetic Forms 
 
 <br>
 
