@@ -79,14 +79,9 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
   <img src="https://komarev.com/ghpvc/?username=ahson01&style=for-the-badge" alt="Profile Views">
 </p>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahson01&style=for-the-badge" alt="Profile Views">
-</p>
 
----
 
-<table width="100%">
+<table width="100%" style="width:full">
   <tr>
     <td align="left">&copy; 2025 Ahson. All rights reserved.</td>
     <td align="right">
@@ -96,8 +91,6 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
     </td>
   </tr>
 </table>
-
-
 
   
 ---
