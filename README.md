@@ -7,7 +7,7 @@
 
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
 
-<img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
+<img align="right" alt="Coding" width=400 style="border-radius: 32px;" src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
 
 - ``🎥`` **Three YouTube channels** (I actually upload on just one lol).
 - ``💬`` Active on **[Discord](https://discord.com/users/1225181022828892223)**—drop by and say hi!
