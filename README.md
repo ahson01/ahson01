@@ -8,7 +8,6 @@
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
 
 <img align="right" alt="Coding" width=400 style="border-radius: 32px;" src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
-<br>
 
 ### ``🔍`` What I'm Up To
 
@@ -17,6 +16,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 - ``👯`` **Collaborating**: AI tools & Web Projects 🧠  
 - ``🎨`` **Seeking Help**: Thinking about making a cool web-dev flow
 
+<br>
 
 ## ``⚙️`` Tech Stack
 
