@@ -19,7 +19,6 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 - ``👯`` **Collaborating**: AI tools & Web Projects 🧠  
 - ``🎨`` **Seeking Help**: Thinking about making a cool web-dev flow
 
----
 
 ## ``⚙️`` Tech Stack
 
