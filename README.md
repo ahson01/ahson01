@@ -15,7 +15,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 - ``🌱`` **Learning**: Python, AI, Web Dev, Art & Animation
 - ``👯`` **Collaborating**: Tech & AI Projects
 - ``⚡`` **Interests**: Cybersecurity, Art, Animation, Minecraft, Poetry
-- ``💬`` **Ask about**: Network Security, Python, AI, Art, Animation, Minecraft, Poetry
+- ``💬`` **Ask about**: Python, AI, Art, Animation, Minecraft, Poetry
 
 <br>
 
