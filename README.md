@@ -10,6 +10,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 - ``💬`` Active on **[Discord](https://discord.com/users/1225181022828892223)**—drop by and say hi!
 - ``📝`` **[Check out my blog](https://techsleekblogs.vercel.app/)** for projects, tech insights, and thoughts.
 <img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
+
 ---
 
 ### ``🔍`` What I'm Up To
