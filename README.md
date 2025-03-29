@@ -82,11 +82,9 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
   <footer>
       <p>&copy; 2025 Ahson. All rights reserved.</p>
-      <h3 align="right">
   <a href="https://discord.com/users/1225181022828892223">
     <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223">
   </a>
-  </h3>
   </footer>
 
   
