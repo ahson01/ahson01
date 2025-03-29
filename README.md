@@ -75,17 +75,20 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 ---
 
-  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahson01&style=for-the-badge" alt="Profile Views">
 </p>
 
-  <footer>
-      <p>&copy; 2025 Ahson. All rights reserved.</p>
+---
+
+<p align="center">
+  &copy; 2025 Ahson. All rights reserved.  
+  <br>
   <a href="https://discord.com/users/1225181022828892223">
-    <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223">
+    <img src="https://dcbadge.limes.pink/api/shield/1225181022828892223" alt="Discord Badge">
   </a>
-  </footer>
+</p>
+
 
   
 ---
