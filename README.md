@@ -12,10 +12,10 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 ### ``🔍`` What I'm Up To
 
 - ``🔭`` **Building**: Network Security Tools 
-- ``🌱`` **Learning**: Python, AI, Web Development, Digital Art & Animation Techniques 
-- ``👯`` **Collaborating**: Tech Projects, AI Applications
-- ``⚡`` **Interests**: Cybersecurity, Digital Art, Animation, Minecraft, & Poetry
-- ``💬`` **Ask me about**: Network Security, Python Automation, AI Applications, Digital Art Tools, Animation Software, Minecraft Development, & Poetic Forms 
+- ``🌱`` **Learning**: Python, AI, Web Dev, Art & Animation
+- ``👯`` **Collaborating**: Tech & AI Projects
+- ``⚡`` **Interests**: Cybersecurity, Art, Animation, Minecraft, Poetry
+- ``💬`` **Ask about**: Network Security, Python, AI, Art, Animation, Minecraft, Poetry
 
 <br>
 
