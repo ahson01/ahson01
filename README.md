@@ -6,7 +6,7 @@
 
 
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
-<sub> I've been coding since 2019. </sub>
+<sup> I've been coding since 2019. </sup>
 
 <img align="right" alt="Coding" width=400 style="border-radius: 32px;" src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
 
