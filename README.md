@@ -10,7 +10,7 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
   <h1 align="center">
   <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use
-  </h3>
+  </h1>
 
    <h4 align="center">Languages</h4>
 <div align="center"> <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,r,ruby,rust,html,css,tailwind,jquery,react,nodejs,django,dotnet&theme=dark" alt="Languages" />  </a> </div>
