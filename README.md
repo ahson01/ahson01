@@ -9,13 +9,6 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
 ## ``⚙️`` Tech Stack
 
-
-<!-- TECH STACK - TWO COLUMN LAYOUT -->
-
-
-
-
-
   <h3 align="center">
   <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use
   </h3>
