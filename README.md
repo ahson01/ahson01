@@ -14,9 +14,8 @@ Collaborating on tech and AI projects
 Cybersecurity, art, animation, and poetry.
 Feel free to reach out.
 
-###### P.S. : I've been coding since 2019.
+###### P.S. I've been coding since 2019.
 <br>
-
 ## ``⚙️`` Tech Stack
 
 ### ``🖥️`` Languages
