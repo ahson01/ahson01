@@ -37,7 +37,7 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 <h4 align="center">Tools & Editors</h4>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma,ppt,vim&theme=dark" alt="Tools & Editors" />
+    <img src="https://skillicons.dev/icons?i=docker,figma,powerpoint,vim&theme=dark" alt="Tools & Editors" />
   </a>
 </div>
 
