@@ -17,26 +17,14 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
   <!-- LEFT COLUMN -->
 
   <div style="flex: 1; padding: 0 8px;">
-    <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I Use</h3>
+    <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use</h3>
 
    <h4 align="center">Languages</h4>
    
-<div align="center"> <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,ruby,r,rust,html,css,tailwind,bootstrap,jquery,sass,react,nodejs,django,flask,dotnet,docker,figma,ppt,vim,github,git,postman&theme=dark" alt="My Tech Stack" /> </a> </div>
+<div align="center"> <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,ruby,r,rust,html,css,tailwind,bootstrap,jquery,sass,react,nodejs,django,flask,dotnet,docker,figma,vim,github,git,postman&theme=dark" alt="My Tech Stack" /> </a> </div>
 
   </div>
 
-
-  <div style="flex: 1; padding: 0 8px;">
-    <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main Skills</h3>
-
-
-
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="Learning-gif"/>&nbsp; Currently Learning</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,python,ai&theme=dark" alt="Learning" />
-  </a>
-</div>
 
   </div>
 </div>
