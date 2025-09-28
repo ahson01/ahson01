@@ -61,7 +61,7 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
   </footer>
   <a href="https://discord.com/users/1358124434732613862">
-    <img  align="right" src="http://dcbadge.limes.pink/api/shield/1358124434732613862">
+    <img  align="right" src="https://dcbadge.limes.pink/api/shield/1358124434732613862">
   </a>
   
 ---
