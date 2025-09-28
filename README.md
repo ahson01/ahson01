@@ -20,8 +20,9 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
     <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use</h3>
 
    <h4 align="center">Languages</h4>
-   
-<div align="center"> <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,ruby,r,rust,html,css,tailwind,bootstrap,jquery,sass,react,nodejs,django,flask,dotnet,docker,figma,vim,github,git,postman&theme=dark" alt="My Tech Stack" /> </a> </div>
+<div align="center"> <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,r,ruby,rust,html,css&theme=dark" alt="Languages" />  </a> </div>
+   <h4 align="center">Software</h4>
+<div align="center"> <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,jquery,sass,react,nodejs,django,flask,dotnet,docker,figma,vim,github,git,postman&theme=dark" alt="Software and Tools" /> </a> </div>
 
   </div>
 
