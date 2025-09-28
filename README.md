@@ -9,37 +9,75 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
 ## ``⚙️`` Tech Stack
 
-### ``🖥️`` Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
 
-### ``🔧`` Backend
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<!-- TECH STACK - TWO COLUMN LAYOUT -->
 
-### ``🎨`` Frontend
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<div style="display: flex; gap: 24px; width: 100%;">
 
-### ``🛠️`` Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  <!-- LEFT COLUMN -->
+
+  <div style="flex: 1; padding: 0 8px;">
+    <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I Use</h3>
+
+   <h4 align="center">Languages</h4>
+    <div align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,python,java,cpp,ruby,r,rust&theme=dark" alt="Languages" />
+      </a>
+    </div>
+
+
+<h4 align="center">Frontend</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,sass&theme=dark" alt="Frontend" />
+  </a>
+</div>
+
+<h4 align="center">Tools & Editors</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,figma,ppt,vim&theme=dark" alt="Tools & Editors" />
+  </a>
+</div>
+
+<h4 align="center">Microsoft Tools</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+</div>
+
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+
+  <div style="flex: 1; padding: 0 8px;">
+    <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main Skills</h3>
+
+
+<h4 align="center">Backend</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react,dotnet&theme=dark" alt="Backend" />
+  </a>
+</div>
+
+<h4 align="center">Other Libraries</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+</div>
+
+<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="Learning-gif"/>&nbsp; Currently Learning</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,python,ai&theme=dark" alt="Learning" />
+  </a>
+</div>
+
+  </div>
+</div>
+
 
 ---
 
