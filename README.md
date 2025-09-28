@@ -1,8 +1,8 @@
 
 <h1> Hey there! I'm <a href="ahson01.github.io">Ahson</a> 👋  
 </h1>
-
-I’m a full‑stack developer, white‑hat hacker, and curious tech enthusiast. I like building, breaking, and learning how things work. I’ve been coding since 2019 and still get excited about picking up new skills.
+I'm a full-stack developer, white-hat hacker, and a curious tech enthusiast based in North India. I enjoy building things, breaking them, and figuring out how they work. 
+I’ve been coding since 2019, and I’m still just as excited to keep learning and exploring new ideas.
 
 # What I’m Working On
 Building network security tools
