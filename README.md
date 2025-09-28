@@ -20,26 +20,8 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
     <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I Use</h3>
 
    <h4 align="center">Languages</h4>
-    <div align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,python,java,cpp,ruby,r,rust&theme=dark" alt="Languages" />
-      </a>
-    </div>
-
-
-<h4 align="center">Frontend</h4>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,sass&theme=dark" alt="Frontend" />
-  </a>
-</div>
-
-<h4 align="center">Tools & Editors</h4>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma,powerpoint,vim&theme=dark" alt="Tools & Editors" />
-  </a>
-</div>
+   
+<div align="center"> <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,python,java,cpp,ruby,r,rust,html,css,tailwind,bootstrap,jquery,sass,react,nodejs,django,flask,dotnet,docker,figma,ppt,vim,github,git,postman&theme=dark" alt="My Tech Stack" /> </a> </div>
 
   </div>
 
@@ -48,17 +30,6 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
     <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main Skills</h3>
 
 
-<h4 align="center">Backend</h4>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react,dotnet&theme=dark" alt="Backend" />
-  </a>
-</div>
-
-<h4 align="center">Other Libraries</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-</div>
 
 <h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="Learning-gif"/>&nbsp; Currently Learning</h3>
 <div align="center">
