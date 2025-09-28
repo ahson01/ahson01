@@ -2,23 +2,20 @@
 <h1> Hey there! I'm <a href="https://github.com/ahson01">Ahson</a> 👋  
 </h1>
 
-### ``🚀`` About Me
+# About Me
+I’m a full‑stack developer, white‑hat hacker, and curious tech enthusiast. I like building, breaking, and learning how things work. I’ve been coding since 2019 and still get excited about picking up new skills.
 
+# What I’m Working On
+Building network security tools
+Learning Python, AI, web development, art, and animation
+Collaborating on tech and AI projects
 
-I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
+# Interests
 
-
-### ``🔍`` What I'm Up To
-
-- ``🔭`` **Building**: Network Security Tools 
-- ``🌱`` **Learning**: Python, AI, Web Dev, Art & Animation
-- ``👯`` **Collaborating**: Tech & AI Projects
-- ``⚡`` **Interests**: Cybersecurity, Art, Animation, Minecraft, Poetry
-- ``💬`` **Ask about**: Python, AI, Art, Animation, Minecraft, Poetry
-
+Cybersecurity, art, animation, and poetry.
+Feel free to reach out.
 
 ###### P.S. : I've been coding since 2019.
-
 <br>
 
 ## ``⚙️`` Tech Stack
