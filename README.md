@@ -5,9 +5,7 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
 #### P.S. I've been coding since 2019.
 
----
-
-## ⚙️ Tech Stack
+## ```⚙️``` Tech Stack
 
 <h4 align="center">Languages & Frameworks</h4>
 
@@ -27,7 +25,7 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
 ---
 
-## 🔗 Octo-Ring
+## ```🔗``` Octo-Ring
 
 <p align="center">
   <samp>
