@@ -1,8 +1,7 @@
 
-<h1> Hey there! I'm <a href="https://github.com/ahson01">Ahson</a> 👋  
+<h1> Hey there! I'm <a href="ahson01.github.io">Ahson</a> 👋  
 </h1>
 
-# About Me
 I’m a full‑stack developer, white‑hat hacker, and curious tech enthusiast. I like building, breaking, and learning how things work. I’ve been coding since 2019 and still get excited about picking up new skills.
 
 # What I’m Working On
