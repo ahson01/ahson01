@@ -4,11 +4,6 @@
 I'm a full-stack developer, white-hat hacker, and a curious tech enthusiast based in North India. I enjoy building things, breaking them, and figuring out how they work. 
 I’ve been coding since 2019, and I’m still just as excited to keep learning and exploring new ideas.
 
-# What I’m Working On
-Building network security tools
-Learning Python, AI, web development, art, and animation
-Collaborating on tech and AI projects
-
 # Interests
 
 Cybersecurity, art, animation, and poetry.
