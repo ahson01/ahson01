@@ -45,18 +45,10 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahson01&style=for-the-badge" alt="Profile Views">
-</p>
+<p align="center"> <img align="right" src="https://komarev.com/ghpvc/?username=ahson01&style=for-the-badge" alt="Profile Views"> </p>
 
-<p align="center">
-  <a href="https://discord.com/users/1358124434732613862">
-    <img src="http://dcbadge.limes.pink/api/shield/1358124434732613862?theme=discord-inverted" alt="Discord Badge">
-  </a>
-</p>
+<footer> <p>&copy; 2025 Ahson. All rights reserved.</p> </footer>
+
+<a href="https://discord.com/users/1358124434732613862"> <img align="right" src="http://dcbadge.limes.pink/api/shield/1358124434732613862?theme=discord-inverted"> </a> 
 
 ---
-
-<footer align="center">
-  <p>&copy; 2025 Ahson. All rights reserved.</p>
-</footer>
