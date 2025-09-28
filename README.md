@@ -9,14 +9,14 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
 
 ## ⚙️ Tech Stack
 
-### Languages & Frameworks
+#### Languages & Frameworks
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,python,java,cpp,r,ruby,rust,html,css,tailwind,jquery,react,nodejs,django,dotnet&theme=dark" alt="Languages" />
   </a>
 </div>
 
-### Tools & Software
+#### Tools & Software
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker,figma,vim,github,git,postman&theme=dark" alt="Software and Tools" />
