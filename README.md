@@ -41,16 +41,8 @@ I’ve been coding since 2019, and I’m still just as excited to keep learning 
   </a>
 </div>
 
-<h4 align="center">Microsoft Tools</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
-</div>
-
-
   </div>
 
-  <!-- RIGHT COLUMN -->
 
   <div style="flex: 1; padding: 0 8px;">
     <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main Skills</h3>
