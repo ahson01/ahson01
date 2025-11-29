@@ -3,8 +3,6 @@
 I'm a full-stack developer, white-hat hacker, and a curious tech enthusiast based in North India. I enjoy building things, breaking them, and figuring out how they work.  
 I’ve been coding since 2019, and I’m still just as excited to keep learning and exploring new ideas.
 
-```P.S. I've been coding since 2019.```
-
 ## ```⚙️``` Tech Stack
 
 <h4 align="center">Languages & Frameworks</h4>
