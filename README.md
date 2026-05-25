@@ -5,15 +5,11 @@ I build, break, and secure systems with a focus on **DevSecOps** & low-level **R
 I design adaptive UI/UX for any requirement, with a focus on performance and user experience. <br>
 With 6+ years of keyboard time since late 2019, I’m still just as excited to keep learning and exploring new ideas.
 
-<h4 align="center">Languages & Frameworks</h4>
-
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,python,java,cpp,r,ruby,rust,html,css,tailwind,jquery,react,nodejs,django,dotnet&theme=dark" alt="Languages" />
   </a>
 </div>
-
-<h4 align="center">Tools & Softwares</h4>
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
