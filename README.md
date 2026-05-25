@@ -5,8 +5,6 @@ I build, break, and secure systems with a focus on **DevSecOps** & low-level **R
 I design adaptive UI/UX for any requirement, with a focus on performance and user experience. <br>
 With 6+ years of keyboard time since late 2019, I’m still just as excited to keep learning and exploring new ideas.
 
-## ```⚙️``` Tech Stack
-
 <h4 align="center">Languages & Frameworks</h4>
 
 <div align="center">
