@@ -1,7 +1,8 @@
-# Hey there! I'm [Ahson](https://ahson01.github.io)
+# Hello!
 
-I'm a full-stack developer, white-hat hacker, and a curious tech enthusiast based in North India. I enjoy building things, breaking them, and figuring out how they work.  
-I’ve been coding since 2019, and I’m still just as excited to keep learning and exploring new ideas.
+I'm Ahson, a full-stack developer, white-hat hacker, and a curious tech enthusiast based in North India. 
+I enjoy building things, breaking them, and figuring out how they work with a focus on DevSecOps low-level Rust engineering.
+I’ve been coding since 2019 having 6+ years of experience, and I’m still just as excited to keep learning and exploring new ideas.
 
 ## ```⚙️``` Tech Stack
 
