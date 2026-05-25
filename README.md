@@ -7,13 +7,7 @@ With 6+ years of keyboard time since late 2019, I’m still just as excited to k
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,python,java,cpp,r,ruby,rust,html,css,tailwind,jquery,react,nodejs,django,dotnet&theme=dark" alt="Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker,figma,vim,github,git,postman&theme=dark" alt="Software and Tools" />
+    <img src="https://skillicons.dev/icons?i=js,python,java,cpp,r,ruby,rust,html,css,tailwind,jquery,react,nodejs,django,dotnet,docker,figma,vim,github,git,postman&theme=dark" alt="Languages" />
   </a>
 </div>
 
