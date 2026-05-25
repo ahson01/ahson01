@@ -1,7 +1,8 @@
-# Hello!
+# Hello! 👋
 
-I'm Ahson, a full-stack developer, white-hat hacker,  tech enthusiast based in North India. <br>
-I build, break, and secure systems with a focus on DevSecOps & low-level Rust engineering. <br>
+I'm Ahson, a Full-stack developer & White-hat hacker based in North India.<br>
+I build, break, and secure systems with a focus on **DevSecOps** & low-level **Rust** engineering.<br>
+I design adaptive UI/UX for any requirement, with a focus on performance and user experience. <br>
 With 6+ years of keyboard time since late 2019, I’m still just as excited to keep learning and exploring new ideas.
 
 ## ```⚙️``` Tech Stack
