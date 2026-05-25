@@ -33,7 +33,7 @@ With 6+ years of keyboard time since late 2019, I’m still just as excited to k
 </p>
 
 
-##### NOTE: These languages only represent my primary stack but I do maintain a more versatile technical background.
+###### ɴᴏᴛᴇ: ᴛʜᴇꜱᴇ ʟᴀɴɢᴜᴀɢᴇꜱ ᴏɴʟʏ ʀᴇᴘʀᴇꜱᴇɴᴛ ᴍʏ ᴘʀɪᴍᴀʀʏ ꜱᴛᴀᴄᴋ ʙᴜᴛ ɪ ᴅᴏ ᴍᴀɪɴᴛᴀɪɴ ᴀ ᴍᴏʀᴇ ᴠᴇʀꜱᴀᴛɪʟᴇ ᴛᴇᴄʜɴɪᴄᴀʟ ʙᴀᴄᴋɢʀᴏᴜɴᴅ.
 
 <h1></h1>
 
