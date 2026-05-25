@@ -31,7 +31,7 @@ With 6+ years of keyboard time since late 2019, I’m still just as excited to k
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </p>
-###### NOTE: These languages only represent my primary stack but I do maintain a more versatile technical background.
+##### NOTE: These languages only represent my primary stack but I do maintain a more versatile technical background.
 
 <h1></h1>
 
