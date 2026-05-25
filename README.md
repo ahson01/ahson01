@@ -18,8 +18,7 @@ With 6+ years of keyboard time since late 2019, I’m still just as excited to k
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
 </p>
 
 <p align="">
@@ -31,7 +30,6 @@ With 6+ years of keyboard time since late 2019, I’m still just as excited to k
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 ###### NOTE: These languages only represent my primary stack but I do maintain a more versatile technical background.
 
